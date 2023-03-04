@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hola 👋, Mi nombre es YeimerAlberto
+### Mi nombre es YeimerAlberto 👋
 #### Y_kAdyMa_R --> Carpe Diem
 ![Y_kAdyMa_R --> Carpe Diem](<a href="https://imgbb.com/"><img src="https://i.ibb.co/7KYQh8R/avatar-imagen.png" alt="avatar-imagen" border="0"></a>)
 
