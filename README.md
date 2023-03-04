@@ -2,7 +2,7 @@
 
 ### Mi nombre es YeimerAlberto 👋
 #### Y_kAdyMa_R --> Carpe Diem
-![Y_kAdyMa_R --> Carpe Diem](<a href="https://imgbb.com/"><img src="https://i.ibb.co/7KYQh8R/avatar-imagen.png" alt="avatar-imagen" border="0"></a>)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7KYQh8R/avatar-imagen.png" alt="avatar-imagen" border="0"></a>
 
 Desarrollador Web, Junior, con gran ambición y deseos de seguir aprendiendo cada día e ir creciendo en este inmenso ámbito tecnológico, me gustan los desafíos, además, generar aprendizaje y oportunidades.
 
