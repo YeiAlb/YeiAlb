@@ -16,8 +16,6 @@ Habilidades: JS / HTML / CSS / Bootstrap /Angular / MySQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeiAlb)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=YeiAlb)
-
 ![Profile views](https://gpvc.arturio.dev/YeiAlb)
 
 
